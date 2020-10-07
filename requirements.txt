@@ -1,2 +1,2 @@
-streamlit
-mip
+streamlit==0.67.1
+mip==1.12.0
