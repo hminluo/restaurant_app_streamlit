@@ -13,7 +13,7 @@ def main():
     T = st.sidebar.number_input('How much do you want to spend?', min_value=1, value=20)
     F = st.sidebar.number_input('How many people are you feeding?', min_value=1, max_value=20, value=2)
 
-    if st.sidebar.button('Generate Order!'):
+    if st.button('Generate Order!'):
         selected = order_generator(T, F, df)
         st.table(df.iloc[selected])
 
