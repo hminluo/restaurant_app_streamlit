@@ -1,0 +1,119 @@
+name,description,category,price,fullness
+Chicken Karage,Marinated fried chicken with furikake spicy sauce,Appetizer,6,0.2
+Gyoza,Japanese style pan-fried,Appetizer,5,0.2
+Tako Yaki,"Homemade tako yaki with furikake, bonito, spicy mayo and eel sauce",Appetizer,6,0.2
+Edamame,,Appetizer,4,0.1
+Garlic Edamame,,Appetizer,5,0.1
+Pork Steam Bun ,"Cucumber, pork belly, spicy hoisin sauce",Appetizer,9,0.3
+Tempura Vegetable,,Appetizer,5,0.2
+Fried Calamari Leg,,Appetizer,6,0.2
+French Fries,,Appetizer,3,0.3
+F.K.Bun,Steam bun with fried grouper and kimchee,Appetizer,9,0.3
+Asian Green Salad,,Salad,4,0.2
+Squid Salad,,Salad,5,0.2
+Seaweed Salad,,Salad,5,0.1
+Kani Salad,,Salad,5,0.2
+Kiwami Ramen,"Pork broth, chasyu, sweet corn, bamboo shoots, scallion, egg, black garlic oil, pickle ginger",Ramen,13,1
+Shoyu Ramen,"Chicken broth, chasyu, egg, scallion, nori, shitake, fungi",Ramen,13,1
+Miso Ramen,"Pork broth, scallions, corn, bean sprout, ground pork, kikurage, ajitama egg, sesame seed",Ramen,13,1
+Spicy Miso Ramen,"Pork broth, scallions, corn, bean sprout, ground pork, kikurage, chili oil, ajitama egg",Ramen,14,1
+Spicy Kimchee Ramen,"Pork broth, chili oil, kimchee, poach egg, bacon",Ramen,15,1
+Kiwami Tan Tan Men,"Pork broth, bamboo shoots, scallions, bean sprout, fungi, chili oil, poach egg",Ramen,15,1
+Curry Chicken Ramen,"Chicken broth, curry paste, corn, scallions, fungi, chicken, ajitama egg",Ramen,13,1
+Abura Soba,"Brothless noodle, beef stir fried on top of noodle, parmesan cheese, scallions, poach egg",Ramen,13,1
+Spicy Abura soba,"Brothless noodle, stir fried beef with onion on top of noodle, parmesan cheses ,scallions, poach egg",Ramen,14,1
+Shoyu chicken,"Chicken broth ,scallion, fungi, mushroom, chicken karage and egg",Ramen,13,1
+Karage Chicken Rice ,"Marinated fried chicken, furikake, rice, seaweed salad, edamame, pickle radish",Rice Bowl,11,1
+Unagi Rice ,"Eel, seaweed salad, pickle radish, avocado, sesame seed with sushi rice",Rice Bowl,16,1
+Chaysu Rice ,"Roasted pork and scallions with seaweed salad, edamame, pickle radish",Rice Bowl,11,1
+Grill Shrimp Rice ,Grill shrimp with vegetable and rice,Rice Bowl,13,1
+Beef Don ,"Beef with hoisin sauce, seaweed salad, pickle radish, edamame, poach egg",Rice Bowl,13,1
+white rice ,,Rice Bowl,2,1
+Extra Ontama ,,Extra,2,0.3
+Extra Ajtama ,,Extra,2,0.1
+Extra Chasyu ,,Extra,3,0
+Extra Grill Shrimp(2) ,,Extra,3,0
+Extra Shrimp Tempura (2) ,,Extra,3,0
+Extra Bamboo Shoot ,,Extra,1,0
+Extra Bean Sprout ,,Extra,1,0
+Extra Benishoga ,,Extra,1,0
+Extra Shitakke ,,Extra,1,0
+Extra Corn ,,Extra,1,0
+Extra Kikurage ,,Extra,1,0
+Extra Nori ,,Extra,1,0
+Extra Scallion ,,Extra,1,0
+Extra Sauce ,,Extra,0.5,0
+Extra Noodle ,,Extra,3,0
+Extra Chili Oil ,,Extra,1,0
+french fries ,,Extra,3,0
+white rice ,,Extra,2,0
+Kimchee ,,Extra,2,0
+Bacon ,,Extra,3,0
+Ground pork ,,Extra,3,0
+Extra broth ,,Extra,10,0
+Tuna ,,Nigri Sushi/Sashimi,5,0.2
+Spicy Tuna ,,Nigri Sushi/Sashimi,5,0.2
+Escolar ,,Nigri Sushi/Sashimi,5,0.2
+Salmon ,,Nigri Sushi/Sashimi,5,0.2
+Smoked Salmon ,,Nigri Sushi/Sashimi,5,0.2
+Whitefish ,,Nigri Sushi/Sashimi,5,0.2
+Yellowtail ,,Nigri Sushi/Sashimi,5,0.2
+Krabmeat ,,Nigri Sushi/Sashimi,4,0.2
+Spicy Krabmeat ,,Nigri Sushi/Sashimi,5,0.2
+Shrimp(Cooked) ,,Nigri Sushi/Sashimi,4,0.2
+Sweet Shrimp(2Pcs) ,,Nigri Sushi/Sashimi,7,0.2
+Eel ,,Nigri Sushi/Sashimi,5,0.2
+Scallop ,,Nigri Sushi/Sashimi,6,0.2
+Tofu Skin ,,Nigri Sushi/Sashimi,3,0.2
+Octopus ,,Nigri Sushi/Sashimi,5,0.2
+Mackerel ,,Nigri Sushi/Sashimi,4,0.2
+Squid ,,Nigri Sushi/Sashimi,4,0.2
+Surf Clam(2Pcs) ,,Nigri Sushi/Sashimi,5,0.2
+Smelt Roe ,,Nigri Sushi/Sashimi,4,0.2
+Smelt Tobiko ,,Nigri Sushi/Sashimi,4,0.2
+Salmon Roe ,,Nigri Sushi/Sashimi,5,0.2
+Quail Egg ,,Nigri Sushi/Sashimi,1.5,0.2
+Wasabi Tobiko ,,Nigri Sushi/Sashimi,5,0.2
+Tamago ,,Nigri Sushi/Sashimi,3,0.2
+Sushi Appetizer ,5 Pieces of Chef's choice nigiri sushi,Sushi Appetizer,9,0.4
+Sashimi Appetizer ,9 Pieces of Chef's choice sashimi,Sushi Appetizer,11,0.4
+Sesame Tuna Tataki ,Sear Tuna with seasame seed and seaweed salad with spicy ponzu sauce,Sushi Appetizer,12,0.3
+Yellowtail Jalapeno ,,Sushi Appetizer,12,0.3
+Tuna Tartar ,"Mango, avocado, tobiko, tempura chip with miso yuzu sauce",Sushi Appetizer,13,0.3
+Salmon Tartar ,"Mango, avocado, tobiko, tempura chip with miso yuzu sauce",Sushi Appetizer,13,0.3
+Volcano Roll,"Tuna, cream cheese, asparagus, avocado, bake crab, massago green onion, eel sauce and spicy mayo",Specialty Rolls,13,0.7
+Kamakazi Roll,"Shrimp tempura, avocado, eel, sesame seed, massago with eel sauce",Specialty Rolls,13,0.7
+Sumo Roll,"Tempura shrimp, asparagus, topped with salmon & avocado, served with eel sauce and spicy mayo",Specialty Rolls,12,0.7
+Lollipop Roll Tuna,"Tuna, crab, smelt roe & asparagus rolled in cu- cumber, served with vinaigrette dressing",Specialty Rolls,12,0.7
+Lollipop Roll Salmon,"Salmon, crab, smelt roe & asparagus rolled in cu- cumber, served with vinaigrette dressing",Specialty Rolls,12,0.7
+Hawaii Roll,"Shrimp tempura, avocado, asparagus top with mango avocado coconut flake served coconut sauce",Specialty Rolls,12,0.7
+Summer Breath Roll,"Shrimp tempura, spicy tuna, mango wrapped in rice paper (no rice) served eel sauce thai chili mayo",Specialty Rolls,13,0.7
+Yummy Roll Spicy Tuna,"Shrimp tempura, avocado, wrapped in soy paper topped with spicy tuna, spicy mayo, eel sauce",Specialty Rolls,12,0.7
+Yummy Roll Spicy Salmon,"Shrimp tempura, avocado, wrapped in soy paper topped with spicy salmon, spicy mayo, eel sauce",Specialty Rolls,12,0.7
+Margarita Roll,"Tuna, avocado, spring mix, green onion, yellow tail slice lime served miso yuzu",Specialty Rolls,13,0.7
+Explosion Roll,"Spicy crunch salmon top with salmon, slice lime, tobiko, server miso yuzu",Specialty Rolls,12,0.7
+Kiwami Torch Roll,"Spicy king crab ,asparagus topped sear white tuna, shredded chili, spicy yuzu sauce",Specialty Rolls,14,0.7
+Sexy Girl Roll,"Lobster tempura, avocado, wrapped soy paper top with spicy crab, shredded seaweed eel sauce spicy mayo",Specialty Rolls,16,0.7
+Dynamite Roll,"White fish,cream cheese, avocado, seaweed rice;fried spicy crab meat, scallion smelt, spicy mayo, eel sauce",Specialty Rolls,14,0.7
+Red Devil Roll,"Tempura grouper,spicy crab,asparagus,tuna spicy crab,scallop,green onion,massago, thai spicy mayo eel sauce",Specialty Rolls,15,0.7
+Lobster Bake Roll,Cajun lobster meat with avocado crunch massago with cajun sauce shredded chili,Specialty Rolls,17,0.7
+Evergreen Roll,"Avocado, asparagus, mango, spring mix wrapped in rice paper (no rice) spicy yuzu",Specialty Rolls,11,0.7
+Pink Lady (fried shrimp),"Tempura shrimp, cream cheese, avocado, soy paper, topped tempura crab, eel sauce spicy mayo",Specialty Rolls,12,0.7
+Crazy tuna,"Spicy tuna, avocado, topped with seared tuna wasabi tobiko, honey wasabi mayo",Specialty Rolls,12,0.7
+Triple Tail,"Tuna, salmon, avocado, topped with jalapeno, yellow tail.",Specialty Rolls,12,0.7
+Xmas tree,"Spicy crab, asparagus, topped with baked salmon tempura chip, smelt roe, scallions, eel sauce, spicy mayo",Specialty Rolls,12,0.7
+California Hand Roll ,,Sushi Hand Rolls,5,0.6
+Salmon Hand Roll ,,Sushi Hand Rolls,5,0.6
+Spicy Salmon Hand Roll ,,Sushi Hand Rolls,5,0.6
+Tuna Hand Roll ,,Sushi Hand Rolls,5,0.6
+Spicy Tuna Hand Roll ,,Sushi Hand Rolls,5,0.6
+Grilled Eel Hand Roll ,,Sushi Hand Rolls,6,0.6
+Salmon Skin Hand Roll ,,Sushi Hand Rolls,4,0.6
+Spicy Scallop Hand Roll ,,Sushi Hand Rolls,8,0.6
+Tuna Poke,"Avocado, Seaweed salad, cucumber, edamame",Sushi Combinations,16,1
+Salmon Poke,"Avocado, Seaweed salad, cucumber, edamame",Sushi Combinations,16,1
+Sushi Combo,8 pieces of nigiri sushi with a California roll,Sushi Combinations,17,1.1
+Sushi & Sashimi Combo,6 pieces of nigiri sushi & 10 pieces of sashimi with a California roll,Sushi Combinations,26,1.5
+Sashimi Combo,Assortment of 15 pieces of sashimi,Sushi Combinations,22,1.2
+Tuna Symphony,"5 tuna sashimi 4 tuna nigiri, 1 spicy tuna roll;no substitutions",Sushi Combinations,21,1.2
+Salmon Lover,5 salmon sashimi 4 salmon nigiri 1 spicy salmon roll,Sushi Combinations,20,1.2
